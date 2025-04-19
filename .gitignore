@@ -1,2 +1,5 @@
 config/
-venv./
+.venv/
+
+/config/
+/.venv/
